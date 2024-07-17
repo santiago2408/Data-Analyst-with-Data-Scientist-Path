@@ -5,7 +5,7 @@
 
 [Data Analysis Process Step By Step](https://careerfoundry.com/en/blog/data-analytics/the-data-analysis-process-step-by-step/#step-one-defining-the-question)
 
-
+![job-description](job_descriptions.jpeg)
 
 # What's Data Analytics?
 
